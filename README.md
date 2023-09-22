@@ -1,5 +1,3 @@
-Sure, here's a README template for your Simple Shell project:
-
 # Simple Shell
 
 ## Description

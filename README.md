@@ -11,10 +11,10 @@ Basic Shell is a UNIX command line interpretation developed as part of the ALX S
 - [Usage](#usage)
 - [Built-in Commands](#built-in-commands)
 - [Authors](#authors)
-- 
+   
 ## Getting Started
 
-To get started with the Simple Shell, follow these steps:
+ Follow these steps to get Started:
 
 1. Clone the repository to your local machine:
 
